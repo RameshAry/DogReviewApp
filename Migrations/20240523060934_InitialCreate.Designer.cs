@@ -12,8 +12,8 @@ using PokemonReviewApp.Data;
 namespace api.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240522080905_Init")]
-    partial class Init
+    [Migration("20240523060934_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -4470,11 +4470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ramesh/Desktop/Builds/ASPNET/PokemonReviewApp/api.csproj",
+      "projectUniqueName": "/Users/ramesh/Desktop/Builds/ASPNET/DogReviewApp/api.csproj",
       "projectName": "api",
-      "projectPath": "/Users/ramesh/Desktop/Builds/ASPNET/PokemonReviewApp/api.csproj",
+      "projectPath": "/Users/ramesh/Desktop/Builds/ASPNET/DogReviewApp/api.csproj",
       "packagesPath": "/Users/ramesh/.nuget/packages/",
-      "outputPath": "/Users/ramesh/Desktop/Builds/ASPNET/PokemonReviewApp/obj/",
+      "outputPath": "/Users/ramesh/Desktop/Builds/ASPNET/DogReviewApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ramesh/.nuget/NuGet/NuGet.Config"
